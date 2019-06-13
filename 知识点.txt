@@ -1,0 +1,17 @@
+1，解压搜：unzip   declaration-> 类的声明   definition -> 类的定义  underscore-> 下划线
+     lowercase -> 小写
+
+2，sz + 文件名     -> 文件的下载；
+
+3，在OA上面申请权限申请单；(个人空间里面什么格式的表格都有)
+
+4，- ambiguous abbreviation.  ->模棱两可的缩写。
+
+5，confusing  -> 令人困惑的   iterates  over -> 遍历   contents -> 内容  sample- > 例子   
+     usage -> 用法   process -> 过程
+
+下载 beyon compare  或  winmerge  
+
+6，keeps track - > 对什么做记录  total number ->总数量的  entries -> 在什么里面。
+
+7，develop -> 开发
